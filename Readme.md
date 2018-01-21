@@ -7,8 +7,8 @@ Application:
 
 When trying to create this interactive graph, I wanted to have look at this from a coach/analyst perspective. Ideally, people would want to see where successful crosses (crosses that either lead to a goal/ shot at goal) end up. These are usually represented by graphs similar to below.
 
-![alt text](https://github.com/samirak93/Where-do-teams-cross-/blob/master/images/heat_map.jpg)
-<img src="https://github.com/samirak93/Where-do-teams-cross-/blob/master/images/heat_map.jpg" alt="Generic Heat Map">
+![alt text](https://raw.githubusercontent.com/samirak93/Where-do-teams-cross-/master/images/heat_map.jpg)
+<img src="https://raw.githubusercontent.com/samirak93/Where-do-teams-cross-/master/images/heat_map.jpg" alt="Generic Heat Map">
 
 <i>Crosses Heat Map. (Credits: Samirak93)</i>
 
