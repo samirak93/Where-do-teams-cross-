@@ -59,13 +59,12 @@ def onclick(event):
 
     ax.imshow(pitch, zorder=0,aspect=None, extent=[-50, 105, 0, 105])
     pl.gca().axison = False
-    fig.canvas.manager.window.activateWindow()
+    fig.canvas.draw()
 
     return x_test
 
 
 
 cid = fig.canvas.mpl_connect('button_press_event', onclick)
-#plotly.offline.iplot(fig)
 
 plt.show()
